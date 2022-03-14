@@ -716,6 +716,14 @@ h2 {
     color: #333333!important;
 }
 
+.desc {
+    font-size: 20px;
+ text-transform: none;
+    font-weight: 700; 
+    color: #2219!important;
+
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
