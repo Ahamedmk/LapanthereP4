@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -721,7 +721,13 @@ h2 {
  text-transform: none;
     font-weight: 700; 
     color: #2219!important;
+}
 
+.auth {
+    font-size: 20px;
+ text-transform: none;
+    font-weight: 700; 
+    color: #2217!important;
 }
 
 .med-width-whitespace {
